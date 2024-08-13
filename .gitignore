@@ -397,4 +397,4 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
-*.O1_CSHARP.generated.sln
+O1_CSHARP.generated.sln
